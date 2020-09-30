@@ -2,6 +2,7 @@ http://104.194.247.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to
 http://137.135.104.223/plesk-site-preview/web.portal.com.uk/https/10.0.8.4/index.php
 http://1693573386.rsc.cdn77.org
 http://173.82.97.194/ap/signin?key=a@b.c%5Cu0026openid.assoc_handle=jpflex%5Cu0026openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.identity=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.mode=checkid_setup%5Cu0026openid.ns=http://specs.openid.net/auth/2.0%5Cu0026openid.pape.max_auth_age=0%5Cu0026openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin%5Cu0026ref_=nav_em_hd_clc_signin
+http://52.128.247.106/ap/signin?key=a@b.c
 http://6a02634af93175243.temporary.link/02F58EZ6453DAZ3D3SFMPD/0EFZFZ65DF4G45RVF4/787F9QSD8FSFELQMSDPQFENCBQSVXAGZ/9E6D/987654dhl-information-contact.html
 http://acemoldremoval.handycontractingserviceshub.com/covid/142.4.29.1368210/sucursalpersonas.transaccionesbancolombia.com/mua/index.html
 http://airnbrooms.temp.swtest.ru/?https:/airbnb.com/rooms/15279510
@@ -49,6 +50,7 @@ http://mobilenetfliprotal.com/2/PayPal-Italy-suppots-clinet/Servicepaypal-Paypal
 http://montepio.info/wordpress/wp-content/plugins/plugins/bnd/challengevdl.php?cmd=_account-details&session=e47260d78bbefde7922854cf97270dc5&dispatch=623876fe03e7a918e8551b62611f99b2416bb3de
 http://montepio.info/wordpress/wp-content/plugins/plugins/bnd/overviewshn.php?cmd=_account-details&session=54a560c25d098db86a46e774faff3c6d&dispatch=25a191f8e6711503687f11c8d8d42a45c91ca44d
 http://nefix.viewdns.net/e382f91e2c82c3853aeb0d3948275232
+http://nomer1.od.ua
 http://onedrive-secure-office365.el.r.appspot.com/login.microsoftonline.com/common/oauth2/authorize=vNews2&amp;email=microsoftonline.com/common/oauth2/authorize&amp
 http://produto-notebook-82738291.tk/produtos/MeusProdutos/Prefetch.php?skullid=133794123
 http://razvivaisya-vsegda.ru/xr/SF-Express/e-invoice.php?login=xxx@example.com
@@ -99,6 +101,7 @@ https://docu-ments.et.r.appspot.com
 https://dormss.com/1/2/3
 https://download.army/downloads/Banners/images/main/account
 https://dzhkjffsd.zstqkdub.best
+https://dzhkjffsd.zstqkdub.best/pc/index.php?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.smbc.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
 https://dzhkjffsd.zstqkdub.best/pc/index.php?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.smbc.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
 https://dzhkjffsd.zstqkdub.best/pc/index.php?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.smbc.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
 https://dzhkjffsd.zstqkdub.best/pc/index.php?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.smbc.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
@@ -114,6 +117,7 @@ https://fraziergills.com/includes/Office365/authorize_client_id:yev5opjg-7m6c-9b
 https://fraziergills.com/includes/Office365/Y29udHJvbGxlckBwZm5sbGMubmV0
 https://halifax.co.uk.login-review-3848.info/Login.php
 https://halifax.mobile-banking.co.uk
+https://halifax.mobile-banking.co.uk/Login.php
 http://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth
 http://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth/dashboard.html
 http://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth/dashboard.html?cmd=login_submit&id=1ece28a909790781572df3f29629f12b1ece28a909790781572df3f29629f12b&session=1ece28a909790781572df3f29629f12b1ece28a909790781572df3f29629f12b
@@ -160,6 +164,7 @@ https://my3uk-acc.page/banks/online.citi.eu/Login.php
 https://my3uk-acc.page/banks/online.citi.eu/Login.php?sslchannel=true&sessionid=vwCkwnLoKxqxuMCGVz5c8Q9QOt3rOX70qE15P81Nux18osLg9skJPvYKZb0hvWpnGCawJOh7BZgms3Xdcbu5q5yiWRavXlCJd7y8mcSBrRETmhmOoR2sUZ6oVP3i4AkvUe
 https://mylovemacoriflame2.000webhostapp.com
 https://o2central.com/wp-admin/solutions/boaNew
+https://o2central.com/wp-admin/solutions/boaNew/services/IujkljZJD45DNydJAs554788.php
 https://o2central.com/wp-admin/solutions/boaNew/services/system/pages/step2
 https://o2central.com/wp-admin/solutions/boaNew/services/system/pages/step3
 https://o2central.com/wp-admin/solutions/boaNew/services/system/pages/step4
@@ -183,6 +188,7 @@ https://returnsuktax-reb.com
 https://rmyapple.com/home/Account
 https://rmyapple.com/home/Signin
 https://sabawenz.com/mazon/amazon
+https://santaskey2recovery.com/login.php?login_id=4cbfb3ff3d073f0cef5209e3c4e8c1b5-session_id=4cbfb3ff3d073f0cef5209e3c4e8c1b54cbfb3ff3d073f0cef5209e3c4e8c1b5
 https://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth/identity.html
 https://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth/reform.html
 https://shareinpectonfile.com/Dashboard-Chase/Dashboard-Chase/Auth/Validation.html
@@ -208,6 +214,8 @@ https://syzpuxtopqalkw.gq/payments/add-payment-error.html?548130572085801&type
 https://syzpuxtopqalkw.gq/payments/Add-Payments-Method.htm?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53EcviRl
 http://stalliongraphics.com/Chase
 https://thompsonrando.info/FID/home/verify.php
+https://totestro.com
+https://totestro.com/index.php
 https://trak-molc.applysap.com/mot?de=Z31wlW5oaWKclX6lkpqYaHl5YKCDomZkaWKjY31y/ivanfaelens@hotmail.com
 https://trk-log.bubbleupbears.com/ga/click/2-1309663-45-4440-8696-8853-885ddd27c0-f7df3273fa
 https://txcambio.com.br/wp-includes/images/www.linkedin.com/hakamnew/serro.php
