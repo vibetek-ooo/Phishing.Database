@@ -1,6 +1,9 @@
 104.194.247.158
+111.90.150.77
+118.27.72.198
 137.135.104.223
 1693573386.rsc.cdn77.org
+173.82.22.110
 173.82.97.194
 3-portal.com
 4141.kansaigroup.net
@@ -31,6 +34,7 @@ bancolombia-baee.webcindario.com
 bancolombia-baki.webcindario.com
 banking-webank.com
 barcases.com
+berlins-burgermeister.de
 bestdiycrafts.club
 besttravel.hr
 bhavbandhan.com
@@ -88,6 +92,7 @@ magazinetest7070.000webhostapp.com
 manexcel.000webhostapp.com
 mhd.ltd
 mylovemacoriflame2.000webhostapp.com
+my.vodafone1021.com
 nefix.viewdns.net
 noblepacific.com
 nomer1.od.ua
@@ -117,6 +122,7 @@ sciencefitnessstudio.co.uk
 secured08chase.com
 shareinpectonfile.com
 sharepoint.secbam.repl.co
+skecherspl.pl
 slslskaikeie.mybigcommerce.com
 smbcagqgsagqg.xyz
 smbc-card.com.mem-index-jsp.vip

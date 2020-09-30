@@ -1,6 +1,8 @@
 http://104.194.247.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://118.27.72.198/ap/signin?key=a@b.c
 http://137.135.104.223/plesk-site-preview/web.portal.com.uk/https/10.0.8.4/index.php
 http://1693573386.rsc.cdn77.org
+http://173.82.22.110/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://173.82.97.194/ap/signin?key=a@b.c%5Cu0026openid.assoc_handle=jpflex%5Cu0026openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.identity=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.mode=checkid_setup%5Cu0026openid.ns=http://specs.openid.net/auth/2.0%5Cu0026openid.pape.max_auth_age=0%5Cu0026openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin%5Cu0026ref_=nav_em_hd_clc_signin
 http://52.128.247.106/ap/signin?key=a@b.c
 http://6a02634af93175243.temporary.link/02F58EZ6453DAZ3D3SFMPD/0EFZFZ65DF4G45RVF4/787F9QSD8FSFELQMSDPQFENCBQSVXAGZ/9E6D/987654dhl-information-contact.html
@@ -56,6 +58,7 @@ http://produto-notebook-82738291.tk/produtos/MeusProdutos/Prefetch.php?skullid=1
 http://razvivaisya-vsegda.ru/xr/SF-Express/e-invoice.php?login=xxx@example.com
 http://regiobank.particulier.me
 http://regiobank.verificatie-platform.eu
+https://111.90.150.77/voda
 https://3-portal.com
 https://3-portal.com/Login.php?sessionID=fseyfUsdUTVlp50V2XsWf76qvH3UZ1YYj19tWBu3jSYysivbC7fNdx4J4b9IityX7UFTyHsPrpnqUsADtJMdrAVm6b7xjMAQ6sFY&error=noNumber
 https://51.68.245.130/Secc03987/banks/ATB/06e6aeaa6ddeb113813da183215d92f0/business.html
@@ -181,6 +184,7 @@ https://my3uk-acc.page/banks/online.citi.eu
 https://my3uk-acc.page/banks/online.citi.eu/Login.php
 https://my3uk-acc.page/banks/online.citi.eu/Login.php?sslchannel=true&sessionid=vwCkwnLoKxqxuMCGVz5c8Q9QOt3rOX70qE15P81Nux18osLg9skJPvYKZb0hvWpnGCawJOh7BZgms3Xdcbu5q5yiWRavXlCJd7y8mcSBrRETmhmOoR2sUZ6oVP3i4AkvUe
 https://mylovemacoriflame2.000webhostapp.com
+https://my.vodafone1021.com/?v=2
 http://snnbclogins-help.xyz
 http://snnbclogins-help.xyz/pc/index.php?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.smbc.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
 http://snnbcwebs-helps.xyz/pc/index.php?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.smbc.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
@@ -262,6 +266,7 @@ https://wudggdu.weebly.com
 https://www-auth-scotia-online.my-napa.com/files/files2/1/index.php
 https://www-auth-scotia-online.my-napa.com/files/files2/1/mfaAuthentication2.php?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
 https://www-auth-scotia-online.my-napa.com/files/files2/1/qes.php?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
+https://www.berlins-burgermeister.de/printer/example/interface/DF5RF5S/52DFG1D/index.php?id=souci1454
 https://www.bestdiycrafts.club/Info-assistanecdredAGRI/secure/4fb8aaafc3839cf657cf79d914ad8598
 https://www.bestdiycrafts.club/Info-assistanecdredAGRI/secure/d852220f6e11a0485b294234590512a5
 https://www.besttravel.hr/wp-admin/css/colors/mobile
@@ -280,6 +285,7 @@ https://www.oakcrestfarmsllc.com/resto_32_carso/data/8a625296d7c6a2d95dac8e94664
 https://www.payee-attempt.cc/hsbc
 https://www.paypal.centre-support.co
 https://www.satourismonline.com/includes/Welsoo/p/confirm
+https://www.skecherspl.pl
 https://www.smbc-card.com.mem-index-jsp.vip
 https://www.three.secure-resolveproblem.com
 https://www.vernadaizeinc.com/us-paypal-ft

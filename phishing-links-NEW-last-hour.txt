@@ -1,4 +1,6 @@
-http://snnbclogins-help.xyz
-http://snnbclogins-help.xyz/pc/index.php?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.smbc.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signinhttps://www.smbc.co.jp
-https://noblepacific.com/basic/321232121/mail.ionos.com/login/?id=2327&utm_term=2327&utm_campaign=mail&utm_medium=inbox&utm_source=login_frontend_hosting&utm_err=0
-https://www.paypal.centre-support.co
+http://118.27.72.198/ap/signin?key=a@b.c
+http://173.82.22.110/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+https://111.90.150.77/voda
+https://my.vodafone1021.com/?v=2
+https://www.berlins-burgermeister.de/printer/example/interface/DF5RF5S/52DFG1D/index.php?id=souci1454
+https://www.skecherspl.pl
